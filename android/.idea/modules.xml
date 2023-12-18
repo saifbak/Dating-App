@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2056198468/android.multi_image_picker2.iml" filepath="$PROJECT_DIR$/.idea/modules/-2056198468/android.multi_image_picker2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1412457979/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1412457979/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-632431719/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-632431719/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-271043590/android.video_player_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-271043590/android.video_player_android.iml" />
+    </modules>
+  </component>
+</project>
